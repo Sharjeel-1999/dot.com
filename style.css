@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav2 li :hover{
+    background-color: rgb(134, 121, 121);
+}
+.container{
+    margin-top: 50px;
+}
+.girl img{
+    width: 300px;
+    height: 250px;
+}
+.hx{
+    background-color: red;
+    text-transform: capitalize;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.icon img{
+    width: 300px;
+    height: 300px;
+}
+.maindrop{
+    background-color: grey-200;  
+}
+.sec2{
+    background-color: #ebe6e6;
+}
+.sec3{
+    background-color: #ebe6e6;
+}
+.girl2 img{
+    width: 100px;
+    height: 100px;
+} 
+.girl3{
+margin-right: 150px;
+}
+.girl4 img{
+    width: 100px;
+    height: 100px;
+    margin-right: 200px;
+}
+.maingirl{
+  background-color: aliceblue;
+}
+/* .fristfooter{
+    background: rgb(235,10,59); 
+    width:100%;
+    height:200px;
+    margin:0%;
+    padding:0%;
+    
+
+}
+.fristfooter footerheading{
+    height: 20px;
+    width: 100%;
+    background-color: #f58142; 
+} */
+.Container{
+    display: flex;
+    background-color: lightgrey;
+    width: 750px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    box-sizing: border-box;
+}
+.right{
+    display: flex;
+}
+.logo{ 
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.logo2{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.maincontainer{
+    display: flex;
+}
+.lastimg{
+    /* margin-right: 50px; */
+    padding-left: 200px;
+}
